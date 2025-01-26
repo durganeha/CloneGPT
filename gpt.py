@@ -16,7 +16,7 @@ if prompt := st.chat_input("Ask anything..."):
     st.session_state.message.append({'role':'user','content':prompt})
 
 if prompt:
-    url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=AIzaSyBZND0qWVfuWg1tR9yzdw9-5-sGqx8hhoQ"
+    url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key= process.env.API_KEY"
     data = {
         'contents':[{'parts':[{'text':prompt}]}]
     }
