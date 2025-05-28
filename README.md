@@ -3,8 +3,11 @@ CloneGPT, a ChatGPT-style conversational AI application built from scratch using
 
 ## Features
 ✅ Real-time chatbot interface
+
 ✅ Built with Streamlit for rapid prototyping
+
 ✅ Clean and intuitive UI
+
 ✅ Lightweight and responsive
 
 ## Tech Stack
