@@ -12,11 +12,14 @@ CloneGPT, a ChatGPT-style conversational AI application built from scratch using
 
 ## Tech Stack
 Python – Core programming language
+
 Streamlit – Open-source app framework for building web UIs
 
 ## How It Works
 -The user types a message in the chat window.
+
 -The message is sent to a backend function.
+
 -A response is generated and displayed in a conversational UI.
 
 ## Author
