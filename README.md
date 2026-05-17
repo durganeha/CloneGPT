@@ -25,5 +25,3 @@ Streamlit – Open-source app framework for building web UIs
 
 -A response is generated and displayed in a conversational UI.
 
-## Author
-K Durga Neha
